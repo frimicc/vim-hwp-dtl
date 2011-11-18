@@ -1,3 +1,9 @@
-This is a syntax plugin for HighWire Press's custom DTL language. This
-language is only used here, so this plugin won't be of any use to anyone else.
+This is a syntax plugin for Stanford University's custom Dynamic Template Language. This
+language is only used here and in CourseWork, so this plugin won't be of any
+use to most people.
 
+See the CourseWork documentation for information about DTL itself.
+http://www.stanford.edu/group/coursework/stanfordoki/DTL/
+
+DTL and this plugin are both Copyright 2011 Trustees of Leland Stanford Jr.
+University.
